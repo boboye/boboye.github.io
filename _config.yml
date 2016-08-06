@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "My Site"
+title: "BoBoye's Blog"
 description: "This is a description of my awesome site."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
@@ -26,15 +26,15 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
+  name:boboye(³Â²©)
+  email:chenbyf787@163.com
   twitter:
   google:
     ad-client:
     ad-slot:
   bio:
   avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
+  disqus-shortname:boboye
 
 
 include:

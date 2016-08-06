@@ -1,6 +1,13 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+title: HOME
+  url: /
+  excerpt: 
+  image: 
+
+- title: UNITY3D
+  url: /mysql/
+
+- title: ABOUT ME
+  url: /mysql/
+
